@@ -1,0 +1,12 @@
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\bin\Debug\WPFApp.exe
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\bin\Debug\WPFApp.pdb
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\Window1.baml
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\Window1.g.cs
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\App.g.cs
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp.g.resources
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.Cache
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp.exe
+E:\Documents\Now\我的禅意花园\09 代码\Zen.WPFSolution\WPFApp\obj\Debug\WPFApp.pdb

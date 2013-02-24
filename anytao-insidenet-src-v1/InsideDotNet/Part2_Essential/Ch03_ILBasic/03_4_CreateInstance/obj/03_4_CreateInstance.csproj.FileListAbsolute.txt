@@ -1,0 +1,7 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\bin\Debug\03_4_CreateInstance.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\bin\Debug\03_4_CreateInstance.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\obj\Debug\03_4_CreateInstance.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\obj\Debug\03_4_CreateInstance.pdb
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\bin\Debug\03_4_CreateInstance.exe
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\bin\Debug\03_4_CreateInstance.pdb

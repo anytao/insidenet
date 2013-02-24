@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\bin\Debug\07_3_AttributeAndProperty.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\bin\Debug\07_3_AttributeAndProperty.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\obj\Debug\07_3_AttributeAndProperty.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\obj\Debug\07_3_AttributeAndProperty.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_2_ILTools\bin\Debug\03_2_ILTools.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_2_ILTools\bin\Debug\03_2_ILTools.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_2_ILTools\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_2_ILTools\obj\Debug\03_2_ILTools.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_2_ILTools\obj\Debug\03_2_ILTools.pdb

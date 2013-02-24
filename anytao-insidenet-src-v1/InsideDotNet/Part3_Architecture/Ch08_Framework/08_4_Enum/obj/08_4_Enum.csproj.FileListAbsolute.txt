@@ -1,0 +1,9 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\bin\Debug\08_4_Enum.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\bin\Debug\08_4_Enum.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\obj\Debug\08_4_Enum.csproj.GenerateResource.Cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\obj\Debug\08_4_Enum.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\obj\Debug\08_4_Enum.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_4_Enum\obj\Debug\InsideDotNet.Framework.EnumEx.frmEnumBinding.resources
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part3_Architecture\Ch08_Framework\08_4_Enum\bin\Debug\08_4_Enum.exe
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part3_Architecture\Ch08_Framework\08_4_Enum\bin\Debug\08_4_Enum.pdb

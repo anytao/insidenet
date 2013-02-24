@@ -1,0 +1,6 @@
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\bin\Release\Anytao.Inside.Ch14.Param.exe.config
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\bin\Release\Anytao.Inside.Ch14.Param.exe
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\bin\Release\Anytao.Inside.Ch14.Param.pdb
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\obj\x86\Release\ResolveAssemblyReference.cache
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\obj\x86\Release\Anytao.Inside.Ch14.Param.exe
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Param\obj\x86\Release\Anytao.Inside.Ch14.Param.pdb

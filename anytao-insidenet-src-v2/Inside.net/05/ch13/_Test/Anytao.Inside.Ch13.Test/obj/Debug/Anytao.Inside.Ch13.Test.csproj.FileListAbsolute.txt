@@ -1,0 +1,8 @@
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\bin\Debug\Anytao.Inside.Ch13.Test.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\bin\Debug\Anytao.Inside.Ch13.Test.pdb
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\bin\Debug\Anytao.Inside.Ch13.LinqStory.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\bin\Debug\xunit.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\bin\Debug\Anytao.Inside.Ch13.LinqStory.pdb
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\obj\Debug\Anytao.Inside.Ch13.Test.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\_Test\Anytao.Inside.Ch13.Test\obj\Debug\Anytao.Inside.Ch13.Test.pdb

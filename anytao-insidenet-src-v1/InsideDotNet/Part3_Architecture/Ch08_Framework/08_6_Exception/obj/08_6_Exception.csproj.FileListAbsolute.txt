@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_6_Exception\bin\Debug\08_6_Exception.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_6_Exception\bin\Debug\08_6_Exception.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_6_Exception\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_6_Exception\obj\Debug\08_6_Exception.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_6_Exception\obj\Debug\08_6_Exception.pdb

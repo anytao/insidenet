@@ -1,0 +1,5 @@
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\03\ch07\Anytao.Inside.Ch07.NULL\bin\Release\Anytao.Inside.Ch07.NULL.exe
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\03\ch07\Anytao.Inside.Ch07.NULL\bin\Release\Anytao.Inside.Ch07.NULL.pdb
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\03\ch07\Anytao.Inside.Ch07.NULL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\03\ch07\Anytao.Inside.Ch07.NULL\obj\x86\Release\Anytao.Inside.Ch07.NULL.exe
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\03\ch07\Anytao.Inside.Ch07.NULL\obj\x86\Release\Anytao.Inside.Ch07.NULL.pdb

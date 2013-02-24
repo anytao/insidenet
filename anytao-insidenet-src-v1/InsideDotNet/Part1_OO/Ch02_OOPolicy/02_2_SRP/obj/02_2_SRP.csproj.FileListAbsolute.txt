@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_2_SRP\bin\Debug\02_2_SRP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_2_SRP\bin\Debug\02_2_SRP.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_2_SRP\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_2_SRP\obj\Debug\02_2_SRP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_2_SRP\obj\Debug\02_2_SRP.pdb

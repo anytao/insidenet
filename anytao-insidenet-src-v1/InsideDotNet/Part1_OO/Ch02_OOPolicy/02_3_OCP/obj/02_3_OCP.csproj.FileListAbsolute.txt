@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_3_OCP\bin\Debug\02_3_OCP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_3_OCP\bin\Debug\02_3_OCP.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_3_OCP\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_3_OCP\obj\Debug\02_3_OCP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_3_OCP\obj\Debug\02_3_OCP.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_4_DIP\bin\Debug\02_4_DIP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_4_DIP\bin\Debug\02_4_DIP.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_4_DIP\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_4_DIP\obj\Debug\02_4_DIP.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch02_OOPolicy\02_4_DIP\obj\Debug\02_4_DIP.pdb

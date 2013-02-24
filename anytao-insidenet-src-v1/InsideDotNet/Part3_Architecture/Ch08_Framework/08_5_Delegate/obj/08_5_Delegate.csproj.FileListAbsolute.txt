@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_5_Delegate\bin\Debug\08_5_Delegate.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_5_Delegate\bin\Debug\08_5_Delegate.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_5_Delegate\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_5_Delegate\obj\Debug\08_5_Delegate.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch08_Framework\08_5_Delegate\obj\Debug\08_5_Delegate.pdb

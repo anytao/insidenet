@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_2_CSharp3\bin\Debug\12_2_CSharp3.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_2_CSharp3\bin\Debug\12_2_CSharp3.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_2_CSharp3\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_2_CSharp3\obj\Debug\12_2_CSharp3.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_2_CSharp3\obj\Debug\12_2_CSharp3.pdb

@@ -1,0 +1,7 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch01_OOThink\01_5_Interface\bin\Debug\01_5_Interface.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch01_OOThink\01_5_Interface\bin\Debug\01_5_Interface.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch01_OOThink\01_5_Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch01_OOThink\01_5_Interface\obj\Debug\01_5_Interface.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part1_OO\Ch01_OOThink\01_5_Interface\obj\Debug\01_5_Interface.pdb
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part1_OO\Ch01_OOThink\01_5_Interface\bin\Debug\01_5_Interface.exe
+E:\Documents\Now\我的禅意花园\09 代码\InsideDotNet\Part1_OO\Ch01_OOThink\01_5_Interface\bin\Debug\01_5_Interface.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part4_Addtion\Ch10_Generic\10_1_History\bin\Debug\10_1_History.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part4_Addtion\Ch10_Generic\10_1_History\bin\Debug\10_1_History.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part4_Addtion\Ch10_Generic\10_1_History\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part4_Addtion\Ch10_Generic\10_1_History\obj\Debug\10_1_History.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part4_Addtion\Ch10_Generic\10_1_History\obj\Debug\10_1_History.pdb

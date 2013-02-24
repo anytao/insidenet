@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch09_FCL\09_3_Root\bin\Debug\09_3_Root.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch09_FCL\09_3_Root\bin\Debug\09_3_Root.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch09_FCL\09_3_Root\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch09_FCL\09_3_Root\obj\Debug\09_3_Root.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch09_FCL\09_3_Root\obj\Debug\09_3_Root.pdb

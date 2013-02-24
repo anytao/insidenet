@@ -1,0 +1,6 @@
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\bin\Release\Anytao.Inside.Ch14.Dynamic.dll
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\bin\Release\Anytao.Inside.Ch14.Dynamic.pdb
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\obj\Release\ResolveAssemblyReference.cache
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\obj\Release\Anytao.Inside.Ch14.Dynamic.csproj.ResolveComReference.cache
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\obj\Release\Anytao.Inside.Ch14.Dynamic.dll
+D:\AT\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch14\Anytao.Inside.Ch14.Dynamic\obj\Release\Anytao.Inside.Ch14.Dynamic.pdb

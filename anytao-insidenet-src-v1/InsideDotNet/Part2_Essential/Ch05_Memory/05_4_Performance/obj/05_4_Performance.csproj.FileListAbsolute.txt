@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch05_Memory\05_4_Performance\bin\Debug\05_4_Performance.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch05_Memory\05_4_Performance\bin\Debug\05_4_Performance.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch05_Memory\05_4_Performance\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch05_Memory\05_4_Performance\obj\Debug\05_4_Performance.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch05_Memory\05_4_Performance\obj\Debug\05_4_Performance.pdb

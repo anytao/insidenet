@@ -1,0 +1,12 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\bin\Debug\12_4_VS2008.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\bin\Debug\12_4_VS2008.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\Window1.baml
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\Window1.g.cs
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\App.g.cs
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\12_4_VS2008_MarkupCompile.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\12_4_VS2008.g.resources
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\Zen.NewFeature.VS2008.Properties.Resources.resources
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\12_4_VS2008.csproj.GenerateResource.Cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\12_4_VS2008.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part5_New\Ch12_NewFeature\12_4_VS2008\obj\Debug\12_4_VS2008.pdb

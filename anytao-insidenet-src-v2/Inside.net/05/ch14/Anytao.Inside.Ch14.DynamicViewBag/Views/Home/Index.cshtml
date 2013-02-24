@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@model Anytao.Inside.Ch14.DynamicViewBag.Controllers.Profile
+
+<h2></h2>
+
+<p>
+    <span><b>ViewBag</b></span>
+
+    <span>@ViewBag.Profile.Book</span>
+    <span>@ViewBag.Profile.Name</span><br />
+    <span>@ViewBag.Profile.PublishOn</span><br />
+    <span>@ViewBag.Profile.Site</span><br />
+
+    <span><b>ViewData</b></span>
+    <span>(@ViewData["Profile"])</span>
+</p>
+
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+</p>

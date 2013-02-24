@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\bin\Debug\07_2_ClassAndStrcut.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\bin\Debug\07_2_ClassAndStrcut.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\obj\Debug\07_2_ClassAndStrcut.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\obj\Debug\07_2_ClassAndStrcut.pdb

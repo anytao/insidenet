@@ -1,0 +1,5 @@
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\Anytao.Inside.Ch13.LinqStory\obj\Debug\ResolveAssemblyReference.cache
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\Anytao.Inside.Ch13.LinqStory\bin\Debug\Anytao.Inside.Ch13.LinqStory.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\Anytao.Inside.Ch13.LinqStory\bin\Debug\Anytao.Inside.Ch13.LinqStory.pdb
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\Anytao.Inside.Ch13.LinqStory\obj\Debug\Anytao.Inside.Ch13.LinqStory.dll
+E:\iAnytao\05 Portfolio\01 Book\03 你必须知道的.NET 2.0\03 代码\Inside.net\05\ch13\Anytao.Inside.Ch13.LinqStory\obj\Debug\Anytao.Inside.Ch13.LinqStory.pdb

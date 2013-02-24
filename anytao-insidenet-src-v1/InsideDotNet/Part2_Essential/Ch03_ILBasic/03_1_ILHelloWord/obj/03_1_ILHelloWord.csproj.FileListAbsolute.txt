@@ -1,0 +1,5 @@
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\bin\Debug\03_1_ILHelloWord.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\bin\Debug\03_1_ILHelloWord.pdb
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\obj\Debug\03_1_ILHelloWord.exe
+E:\Documents\Now\我的禅意花园\09 代码\zen.net\Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\obj\Debug\03_1_ILHelloWord.pdb

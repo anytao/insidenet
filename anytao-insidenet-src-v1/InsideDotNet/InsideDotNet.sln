@@ -1,0 +1,1121 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part1_OO", "Part1_OO", "{60F69FD8-1F93-4853-AE07-A38567FDE23D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2_Essential", "Part2_Essential", "{4F815535-D3E8-40AB-97B1-1202D8D41F86}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part3_Architecture", "Part3_Architecture", "{5226F524-87E5-4516-9ACF-C5BA1447183A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part4-Addtion", "Part4-Addtion", "{8445D179-5B2A-406B-B286-78DE60E04DDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part5-New", "Part5-New", "{00FC6B9C-AF8A-4972-AFB5-791D944AC0F7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch01_OOThink", "Ch01_OOThink", "{788AC7A3-7CAA-47CC-85F8-F2021A60D761}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch02_OOPolicy", "Ch02_OOPolicy", "{92EE5537-7CEB-4684-A847-E81192A3E9CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch03_ILBasic", "Ch03_ILBasic", "{D8D29E08-A870-4AB8-B49A-46643F4DC74E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch04_Type", "Ch04_Type", "{209FFCB1-41FD-48B3-8E6B-8DDA3116751C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch05_Memory", "Ch05_Memory", "{2086A121-4A38-464A-A4F0-56ECBDB8AA02}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch06_Keyword", "Ch06_Keyword", "{24F72E10-8456-4F3C-8C2E-B8DE92323504}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch07_Conception", "Ch07_Conception", "{35121CEC-DDB4-4531-9F46-EF2AECB7868A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch08_Framework", "Ch08_Framework", "{06D9CD58-88C4-446C-AB08-49F6A96C2A3B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch09_FCL", "Ch09_FCL", "{A210135D-A67B-4A45-8382-368A8865D5EB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch10_Generic", "Ch10_Generic", "{8F47F31D-5021-4C10-9C6D-0F025EAE3661}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch11_Security", "Ch11_Security", "{17B21D70-E504-4976-8416-1FE6F7460411}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch12_NewFeature", "Ch12_NewFeature", "{6C89F275-D570-465C-AF03-8D7984BA7E36}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_2_Inheritance", "01_2_Inheritance", "{BCB32DCF-E1BC-4061-ACF4-CE39CBD08E05}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{4883190C-D458-4D14-9500-8B5247A85E08}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_2_Inheritance", "Part1_OO\Ch01_OOThink\01_2_Inheritance\01_2_Inheritance.csproj", "{C945A4E0-97AA-4923-A446-825F255E31EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_4_Polymorphism", "01_4_Polymorphism", "{144D5821-5753-4983-B499-E674C2969203}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_4_Polymorphism", "Part1_OO\Ch01_OOThink\01_4_Polymorphism\01_4_Polymorphism.csproj", "{3EA6F840-7E75-4386-8579-B8A3184573B6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_5_Interface", "01_5_Interface", "{969FD1F7-6B8E-4FEF-B2BD-63E7D8982962}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_5_Interface", "Part1_OO\Ch01_OOThink\01_5_Interface\01_5_Interface.csproj", "{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_2_SRP", "02_2_SRP", "{1F672F9A-E0CB-4DA0-A18B-5C49BB99D2BC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_3_OCP", "02_3_OCP", "{9F401E81-CE74-4C07-A911-5B90322AE859}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_4_DIP", "02_4_DIP", "{D4615D12-F7E1-4386-89A3-7F53C6A99638}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_5_ISP", "02_5_ISP", "{7223EFC7-4CAC-437B-8344-A5D7E8344AA0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_6_LSP", "02_6_LSP", "{C9FE1F74-06FF-4471-9AA0-6E9E5A786506}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_2_SRP", "Part1_OO\Ch02_OOPolicy\02_2_SRP\02_2_SRP.csproj", "{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_3_OCP", "Part1_OO\Ch02_OOPolicy\02_3_OCP\02_3_OCP.csproj", "{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_4_DIP", "Part1_OO\Ch02_OOPolicy\02_4_DIP\02_4_DIP.csproj", "{C90103CE-82FE-402D-8BFC-721D97205E1E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_5_ISP", "Part1_OO\Ch02_OOPolicy\02_5_ISP\02_5_ISP.csproj", "{C4F5A202-C443-4703-BA28-97DC7EFA6A41}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_6_LSP", "Part1_OO\Ch02_OOPolicy\02_6_LSP\02_6_LSP.csproj", "{0C9E5BC8-09A0-4186-8518-AC2F82BECE93}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_1_ILHelloWord", "03_1_ILHelloWord", "{71D3FA88-2C33-4916-BE5B-2020B3F78325}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_2_ILTools", "03_2_ILTools", "{326B5CED-963F-4527-870A-6B48517AF036}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_3_ILBase", "03_3_ILBase", "{41E3A440-D6F2-427D-8DCA-659577A04884}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_4_CreateInstance", "03_4_CreateInstance", "{EC5EB92E-74A5-4385-B8CE-961B56EFBDA4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_5_MethodInovation", "03_5_MethodInovation", "{F4048769-F5A2-4C1B-975F-B6559E1DC662}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_1_CTS", "04_1_CTS", "{00910D7E-89B0-4C63-8A3D-CE700E7ECA37}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_2_TypeEssence", "04_2_TypeEssence", "{4D4052A1-013D-4876-A824-743FD1D5F947}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_3_Arguments", "04_3_Arguments", "{4A370366-0A76-48C6-8573-4032128DAD74}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_4_Box", "04_4_Box", "{05B04C95-6A02-4892-A28F-BDA154A06830}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_1_MemoryBase", "05_1_MemoryBase", "{616A2CF9-0ECB-4939-882A-0167407EB06B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_2_NewObj", "05_2_NewObj", "{67B2E5A1-509F-42D1-8DAE-1BD87D3053CD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_3_GC", "05_3_GC", "{3F814A82-7600-4FC4-B6D1-9C64CA406284}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_4_Performance", "05_4_Performance", "{F0783A42-E8E6-4A32-9ABA-6E4F944317BF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_1_new", "06_1_new", "{8139AD15-A9F6-4DD2-9098-E0037EA545D0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_2_baseAndthis", "06_2_baseAndthis", "{74B70B01-97A3-4EC7-8441-E9FBBF702359}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_3_using", "06_3_using", "{5BBC03B3-B35A-4C09-907A-9EC7D546F44B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_4_convert", "06_4_convert", "{8D48B6AC-2D24-42C0-9DCF-4A0C70308109}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_5_Preprocessor", "06_5_Preprocessor", "{63BA74EA-C958-4FD6-A801-03FCD54AB6D0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_6_SubKeyword", "06_6_SubKeyword", "{FB67A08C-EF29-4FC5-BE43-677C236E73E2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_1_ConstAndReadonly", "07_1_ConstAndReadonly", "{6956D5BC-2717-4A9E-8F2F-03A4A0982675}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_2_ClassAndStruct", "07_2_ClassAndStruct", "{048E795A-B209-41AE-9029-6DE9FB492645}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_3_AttributeAndProperty", "07_3_AttributeAndProperty", "{3AD74258-C5E1-4810-B760-71172E421D0D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_4_InterfaceAndAbstractClass", "07_4_InterfaceAndAbstractClass", "{07A82678-55A6-4C48-98C0-AB149265C3A4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_5_IsAndAs", "07_5_IsAndAs", "{B030BA84-9748-4ED9-8095-D50442FDDF65}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_6_OverrideAndOverload", "07_6_OverrideAndOverload", "{21939CA5-63A2-4438-A53B-9DC13AB6070F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_7_Clone", "07_7_Clone", "{865A5080-0716-4180-9C71-54B0A681D39C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_8_Static", "07_8_Static", "{ADE23EF2-81FD-4DFD-B87C-DA38F864C405}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_9_Collections", "07_9_Collections", "{39E6911E-A105-4B3C-90C1-118D82DBCAA8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_1_Object", "08_1_Object", "{7ABDF6EA-3D11-4DAB-BA48-29787A3E00D4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_2_Equals", "08_2_Equals", "{99E84538-C0D8-440D-A1EE-4C9CABE0600D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_3_String", "08_3_String", "{BC46A530-F92B-472D-8093-61F63C7B0D4E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_4_Enum", "08_4_Enum", "{8C0D811F-FEE9-43BD-8592-9EB3545749E1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_5_Delegate", "08_5_Delegate", "{5A7B5345-BC6C-4E87-903A-5EF1CF8DFE3D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_6_Exception", "08_6_Exception", "{1B231985-ACBE-4F19-9FDB-208D63B3613E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_1_Base", "09_1_Base", "{F7637ED6-474F-4A72-8C44-05224F9FC53B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_2_Main", "09_2_Main", "{61627301-13C0-41E5-B311-2F15A2256C99}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_3_Root", "09_3_Root", "{016C5F6B-99E0-4882-8767-9C44FCF388DE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_4_Sub", "09_4_Sub", "{F45AE833-9728-454C-A0D6-284002EAEE56}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_1_History", "10_1_History", "{21B9A2EC-4DD5-4861-8BA7-6D8B3659C77A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_2_GenericBase", "10_2_GenericBase", "{F7AF6213-7ED3-4BE6-80EB-A35E8DF4B92F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_3_More", "10_3_More", "{5995EA32-A771-4CFD-96D3-AE3791FE8026}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_2_CAS", "11_2_CAS", "{DACEE9AB-99E6-4B33-BCD7-4B4826C8549B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_3_RBS", "11_3_RBS", "{0F37D6EC-6A53-4417-B04B-52E7AD40DE07}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_2_CSharp3", "12_2_CSharp3", "{16472241-365F-49AF-A285-6DC2D243914E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_3_Linq", "12_3_Linq", "{89355A15-6303-47E0-9514-761EA6ECD1E2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_5_W3", "12_5_W3", "{C18FE637-640D-447E-A8C6-9736E92F72A7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_4_VS2008", "12_4_VS2008", "{C3FB8B44-09A8-4BBD-B3D5-EA2E95AB34B2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_1_ILHelloWord", "Part2_Essential\Ch03_ILBasic\03_1_ILHelloWord\03_1_ILHelloWord.csproj", "{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_2_ILTools", "Part2_Essential\Ch03_ILBasic\03_2_ILTools\03_2_ILTools.csproj", "{A7BB06A1-5E46-43F8-9083-18E74D7720BD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_3_ILBase", "Part2_Essential\Ch03_ILBasic\03_3_ILBase\03_3_ILBase.csproj", "{4C579EF2-B5D5-401E-844B-E3E7D901892C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_4_CreateInstance", "Part2_Essential\Ch03_ILBasic\03_4_CreateInstance\03_4_CreateInstance.csproj", "{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_5_MethodInovation", "Part2_Essential\Ch03_ILBasic\03_5_MethodInovation\03_5_MethodInovation.csproj", "{DA13F379-198E-4B6C-B9CC-2F37ED35B912}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_1_CTS", "Part2_Essential\Ch04_Type\04_1_CTS\04_1_CTS.csproj", "{CC9D5551-5A16-406A-98E6-D9540221A662}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_2_TypeEssence", "Part2_Essential\Ch04_Type\04_2_TypeEssence\04_2_TypeEssence.csproj", "{CC663128-A9BF-4588-8D54-F38AC8CFAAEA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_3_Arguments", "Part2_Essential\Ch04_Type\04_3_Arguments\04_3_Arguments.csproj", "{886B30BB-C957-4335-9510-434A4F95D7AD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_4_Box", "Part2_Essential\Ch04_Type\04_4_Box\04_4_Box.csproj", "{AF738143-C0E1-492C-AF10-DB03922FABFB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_1_MemoryBase", "Part2_Essential\Ch05_Memory\05_1_MemoryBase\05_1_MemoryBase.csproj", "{7020BC09-06E7-4877-B34D-8B77E15A6ECC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_2_NewObj", "Part2_Essential\Ch05_Memory\05_2_NewObj\05_2_NewObj.csproj", "{7CE4FB24-164D-4C73-B184-7D82C3C2B335}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_3_GC", "Part2_Essential\Ch05_Memory\05_3_GC\05_3_GC.csproj", "{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_4_Performance", "Part2_Essential\Ch05_Memory\05_4_Performance\05_4_Performance.csproj", "{A9477907-D8B7-4DF8-9EBD-89996FCC50AB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_1_new", "Part3_Architecture\Ch06_Keyword\06_1_new\06_1_new.csproj", "{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_2_baseAndthis", "Part3_Architecture\Ch06_Keyword\06_2_baseAndthis\06_2_baseAndthis.csproj", "{15D00BD4-918C-47EB-A875-2DD335255175}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_3_using", "Part3_Architecture\Ch06_Keyword\06_3_using\06_3_using.csproj", "{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_4_convert", "Part3_Architecture\Ch06_Keyword\06_4_convert\06_4_convert.csproj", "{512EFE0B-1F27-43D3-8BDA-28CEE641DD64}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_5_Preprocessor", "Part3_Architecture\Ch06_Keyword\06_5_Preprocessor\06_5_Preprocessor.csproj", "{D14C586B-8D10-42E5-91CE-4EF1A8EB322A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_6_SubKeyword", "Part3_Architecture\Ch06_Keyword\06_6_SubKeyword\06_6_SubKeyword.csproj", "{351EA860-CE72-4AF8-BC3C-9552ADD91227}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_3_Encapsulation", "01_3_Encapsulation", "{D905502F-47D5-4A23-9960-7F90F9DF985B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_3_Encapsulation", "Part1_OO\Ch01_OOThink\01_3_Encapsulation\01_3_Encapsulation.csproj", "{6782FA18-80C2-4376-98A0-D6E1EE0B4032}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_1_ObjTravel", "01_1_ObjTravel", "{BCEA1480-BB94-4FFD-A9D1-11B670982B80}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_1_ObjTravel", "Part1_OO\Ch01_OOThink\01_1_ObjTravel\01_1_ObjTravel.csproj", "{E2177A14-2B06-407A-985A-C0CCAA7C1CAC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_1_ConstAndReadonly", "Part3_Architecture\Ch07_Conception\07_1_ConstAndReadonly\07_1_ConstAndReadonly.csproj", "{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_2_ClassAndStrcut", "Part3_Architecture\Ch07_Conception\07_2_ClassAndStrcut\07_2_ClassAndStrcut.csproj", "{46260265-ABA2-4A48-9D17-6425A6FBA9E1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_3_AttributeAndProperty", "Part3_Architecture\Ch07_Conception\07_3_AttributeAndProperty\07_3_AttributeAndProperty.csproj", "{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_4_InterfaceAndAbstractClass", "Part3_Architecture\Ch07_Conception\07_4_InterfaceAndAbstractClass\07_4_InterfaceAndAbstractClass.csproj", "{90EF534F-8D5B-40B9-AD83-D3D52C539EC4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_5_IsAndAs", "Part3_Architecture\Ch07_Conception\07_5_IsAndAs\07_5_IsAndAs.csproj", "{33B477A3-A331-4563-B932-59B441F42CAB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_6_OverrideAndOverload", "Part3_Architecture\Ch07_Conception\07_6_OverrideAndOverload\07_6_OverrideAndOverload.csproj", "{629B669F-DA5E-4718-9925-305B7F86BEF1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_7_Clone", "Part3_Architecture\Ch07_Conception\07_7_Clone\07_7_Clone.csproj", "{C6535B5A-3705-4B8F-BFE2-9D19380CDC22}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_8_Static", "Part3_Architecture\Ch07_Conception\07_8_Static\07_8_Static.csproj", "{879A97B1-4D05-4FF0-949F-F5786338156A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_9_Collections", "Part3_Architecture\Ch07_Conception\07_9_Collections\07_9_Collections.csproj", "{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_1_Object", "Part3_Architecture\Ch08_Framework\08_1_Object\08_1_Object.csproj", "{153985DD-3FF1-46C5-B8C2-5662D19DC22C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_2_Equals", "Part3_Architecture\Ch08_Framework\08_2_Equals\08_2_Equals.csproj", "{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_3_String", "Part3_Architecture\Ch08_Framework\08_3_String\08_3_String.csproj", "{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_4_Enum", "Part3_Architecture\Ch08_Framework\08_4_Enum\08_4_Enum.csproj", "{6F04E1BD-7506-4905-8FBF-38207F010024}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_5_Delegate", "Part3_Architecture\Ch08_Framework\08_5_Delegate\08_5_Delegate.csproj", "{BFB4358E-47E3-4B59-8F02-9EC183663C80}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_6_Exception", "Part3_Architecture\Ch08_Framework\08_6_Exception\08_6_Exception.csproj", "{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_1_Base", "Part3_Architecture\Ch09_FCL\09_1_Base\09_1_Base.csproj", "{B1762191-5F39-4F0A-9341-73E9C9DE5F8C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_2_Main", "Part3_Architecture\Ch09_FCL\09_2_Main\09_2_Main.csproj", "{957A1F63-D58E-478F-9DA3-C7274A1EB391}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_3_Root", "Part3_Architecture\Ch09_FCL\09_3_Root\09_3_Root.csproj", "{89319E44-9CB9-41BE-AC27-AF6DE924F085}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_4_Sub", "Part3_Architecture\Ch09_FCL\09_4_Sub\09_4_Sub.csproj", "{E4444711-1482-4E52-9159-A17FD7707896}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_1_History", "Part4_Addtion\Ch10_Generic\10_1_History\10_1_History.csproj", "{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_2_GenericBase", "Part4_Addtion\Ch10_Generic\10_2_GenericBase\10_2_GenericBase.csproj", "{6603AD2F-8660-4B9C-B56C-5519E372848B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_3_More", "Part4_Addtion\Ch10_Generic\10_3_More\10_3_More.csproj", "{869EBE3A-F78D-494E-8563-EE1703BE87FD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_2_CAS", "Part4_Addtion\Ch11_Security\11_2_CAS\11_2_CAS.csproj", "{E876B7C9-9FDD-4B10-A953-6EAB3444E86C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_3_RBS", "Part4_Addtion\Ch11_Security\11_3_RBS\11_3_RBS.csproj", "{83658121-43F8-4B96-A159-2A6790B5D877}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C945A4E0-97AA-4923-A446-825F255E31EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C945A4E0-97AA-4923-A446-825F255E31EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C945A4E0-97AA-4923-A446-825F255E31EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C945A4E0-97AA-4923-A446-825F255E31EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA6F840-7E75-4386-8579-B8A3184573B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA6F840-7E75-4386-8579-B8A3184573B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA6F840-7E75-4386-8579-B8A3184573B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA6F840-7E75-4386-8579-B8A3184573B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90103CE-82FE-402D-8BFC-721D97205E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90103CE-82FE-402D-8BFC-721D97205E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90103CE-82FE-402D-8BFC-721D97205E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90103CE-82FE-402D-8BFC-721D97205E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F5A202-C443-4703-BA28-97DC7EFA6A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5A202-C443-4703-BA28-97DC7EFA6A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5A202-C443-4703-BA28-97DC7EFA6A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5A202-C443-4703-BA28-97DC7EFA6A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9E5BC8-09A0-4186-8518-AC2F82BECE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9E5BC8-09A0-4186-8518-AC2F82BECE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9E5BC8-09A0-4186-8518-AC2F82BECE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9E5BC8-09A0-4186-8518-AC2F82BECE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BB06A1-5E46-43F8-9083-18E74D7720BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BB06A1-5E46-43F8-9083-18E74D7720BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BB06A1-5E46-43F8-9083-18E74D7720BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BB06A1-5E46-43F8-9083-18E74D7720BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C579EF2-B5D5-401E-844B-E3E7D901892C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C579EF2-B5D5-401E-844B-E3E7D901892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C579EF2-B5D5-401E-844B-E3E7D901892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C579EF2-B5D5-401E-844B-E3E7D901892C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA13F379-198E-4B6C-B9CC-2F37ED35B912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA13F379-198E-4B6C-B9CC-2F37ED35B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA13F379-198E-4B6C-B9CC-2F37ED35B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA13F379-198E-4B6C-B9CC-2F37ED35B912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9D5551-5A16-406A-98E6-D9540221A662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9D5551-5A16-406A-98E6-D9540221A662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9D5551-5A16-406A-98E6-D9540221A662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9D5551-5A16-406A-98E6-D9540221A662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC663128-A9BF-4588-8D54-F38AC8CFAAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC663128-A9BF-4588-8D54-F38AC8CFAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC663128-A9BF-4588-8D54-F38AC8CFAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC663128-A9BF-4588-8D54-F38AC8CFAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886B30BB-C957-4335-9510-434A4F95D7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B30BB-C957-4335-9510-434A4F95D7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B30BB-C957-4335-9510-434A4F95D7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B30BB-C957-4335-9510-434A4F95D7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF738143-C0E1-492C-AF10-DB03922FABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF738143-C0E1-492C-AF10-DB03922FABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF738143-C0E1-492C-AF10-DB03922FABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF738143-C0E1-492C-AF10-DB03922FABFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7020BC09-06E7-4877-B34D-8B77E15A6ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7020BC09-06E7-4877-B34D-8B77E15A6ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7020BC09-06E7-4877-B34D-8B77E15A6ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7020BC09-06E7-4877-B34D-8B77E15A6ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE4FB24-164D-4C73-B184-7D82C3C2B335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE4FB24-164D-4C73-B184-7D82C3C2B335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE4FB24-164D-4C73-B184-7D82C3C2B335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE4FB24-164D-4C73-B184-7D82C3C2B335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9477907-D8B7-4DF8-9EBD-89996FCC50AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9477907-D8B7-4DF8-9EBD-89996FCC50AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9477907-D8B7-4DF8-9EBD-89996FCC50AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9477907-D8B7-4DF8-9EBD-89996FCC50AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D00BD4-918C-47EB-A875-2DD335255175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D00BD4-918C-47EB-A875-2DD335255175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D00BD4-918C-47EB-A875-2DD335255175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D00BD4-918C-47EB-A875-2DD335255175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512EFE0B-1F27-43D3-8BDA-28CEE641DD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512EFE0B-1F27-43D3-8BDA-28CEE641DD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512EFE0B-1F27-43D3-8BDA-28CEE641DD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512EFE0B-1F27-43D3-8BDA-28CEE641DD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14C586B-8D10-42E5-91CE-4EF1A8EB322A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14C586B-8D10-42E5-91CE-4EF1A8EB322A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14C586B-8D10-42E5-91CE-4EF1A8EB322A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14C586B-8D10-42E5-91CE-4EF1A8EB322A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351EA860-CE72-4AF8-BC3C-9552ADD91227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351EA860-CE72-4AF8-BC3C-9552ADD91227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351EA860-CE72-4AF8-BC3C-9552ADD91227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351EA860-CE72-4AF8-BC3C-9552ADD91227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6782FA18-80C2-4376-98A0-D6E1EE0B4032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6782FA18-80C2-4376-98A0-D6E1EE0B4032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6782FA18-80C2-4376-98A0-D6E1EE0B4032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6782FA18-80C2-4376-98A0-D6E1EE0B4032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2177A14-2B06-407A-985A-C0CCAA7C1CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2177A14-2B06-407A-985A-C0CCAA7C1CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2177A14-2B06-407A-985A-C0CCAA7C1CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2177A14-2B06-407A-985A-C0CCAA7C1CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46260265-ABA2-4A48-9D17-6425A6FBA9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46260265-ABA2-4A48-9D17-6425A6FBA9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46260265-ABA2-4A48-9D17-6425A6FBA9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46260265-ABA2-4A48-9D17-6425A6FBA9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EF534F-8D5B-40B9-AD83-D3D52C539EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF534F-8D5B-40B9-AD83-D3D52C539EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF534F-8D5B-40B9-AD83-D3D52C539EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF534F-8D5B-40B9-AD83-D3D52C539EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B477A3-A331-4563-B932-59B441F42CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B477A3-A331-4563-B932-59B441F42CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B477A3-A331-4563-B932-59B441F42CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B477A3-A331-4563-B932-59B441F42CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629B669F-DA5E-4718-9925-305B7F86BEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629B669F-DA5E-4718-9925-305B7F86BEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629B669F-DA5E-4718-9925-305B7F86BEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629B669F-DA5E-4718-9925-305B7F86BEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6535B5A-3705-4B8F-BFE2-9D19380CDC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6535B5A-3705-4B8F-BFE2-9D19380CDC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6535B5A-3705-4B8F-BFE2-9D19380CDC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6535B5A-3705-4B8F-BFE2-9D19380CDC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879A97B1-4D05-4FF0-949F-F5786338156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A97B1-4D05-4FF0-949F-F5786338156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A97B1-4D05-4FF0-949F-F5786338156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A97B1-4D05-4FF0-949F-F5786338156A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153985DD-3FF1-46C5-B8C2-5662D19DC22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153985DD-3FF1-46C5-B8C2-5662D19DC22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153985DD-3FF1-46C5-B8C2-5662D19DC22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153985DD-3FF1-46C5-B8C2-5662D19DC22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F04E1BD-7506-4905-8FBF-38207F010024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F04E1BD-7506-4905-8FBF-38207F010024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F04E1BD-7506-4905-8FBF-38207F010024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F04E1BD-7506-4905-8FBF-38207F010024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB4358E-47E3-4B59-8F02-9EC183663C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB4358E-47E3-4B59-8F02-9EC183663C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB4358E-47E3-4B59-8F02-9EC183663C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB4358E-47E3-4B59-8F02-9EC183663C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1762191-5F39-4F0A-9341-73E9C9DE5F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1762191-5F39-4F0A-9341-73E9C9DE5F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1762191-5F39-4F0A-9341-73E9C9DE5F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1762191-5F39-4F0A-9341-73E9C9DE5F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957A1F63-D58E-478F-9DA3-C7274A1EB391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957A1F63-D58E-478F-9DA3-C7274A1EB391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957A1F63-D58E-478F-9DA3-C7274A1EB391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957A1F63-D58E-478F-9DA3-C7274A1EB391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89319E44-9CB9-41BE-AC27-AF6DE924F085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89319E44-9CB9-41BE-AC27-AF6DE924F085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89319E44-9CB9-41BE-AC27-AF6DE924F085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89319E44-9CB9-41BE-AC27-AF6DE924F085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4444711-1482-4E52-9159-A17FD7707896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4444711-1482-4E52-9159-A17FD7707896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4444711-1482-4E52-9159-A17FD7707896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4444711-1482-4E52-9159-A17FD7707896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6603AD2F-8660-4B9C-B56C-5519E372848B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6603AD2F-8660-4B9C-B56C-5519E372848B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6603AD2F-8660-4B9C-B56C-5519E372848B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6603AD2F-8660-4B9C-B56C-5519E372848B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869EBE3A-F78D-494E-8563-EE1703BE87FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869EBE3A-F78D-494E-8563-EE1703BE87FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869EBE3A-F78D-494E-8563-EE1703BE87FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869EBE3A-F78D-494E-8563-EE1703BE87FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E876B7C9-9FDD-4B10-A953-6EAB3444E86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E876B7C9-9FDD-4B10-A953-6EAB3444E86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E876B7C9-9FDD-4B10-A953-6EAB3444E86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E876B7C9-9FDD-4B10-A953-6EAB3444E86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83658121-43F8-4B96-A159-2A6790B5D877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83658121-43F8-4B96-A159-2A6790B5D877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83658121-43F8-4B96-A159-2A6790B5D877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83658121-43F8-4B96-A159-2A6790B5D877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{788AC7A3-7CAA-47CC-85F8-F2021A60D761} = {60F69FD8-1F93-4853-AE07-A38567FDE23D}
+		{92EE5537-7CEB-4684-A847-E81192A3E9CC} = {60F69FD8-1F93-4853-AE07-A38567FDE23D}
+		{D8D29E08-A870-4AB8-B49A-46643F4DC74E} = {4F815535-D3E8-40AB-97B1-1202D8D41F86}
+		{209FFCB1-41FD-48B3-8E6B-8DDA3116751C} = {4F815535-D3E8-40AB-97B1-1202D8D41F86}
+		{2086A121-4A38-464A-A4F0-56ECBDB8AA02} = {4F815535-D3E8-40AB-97B1-1202D8D41F86}
+		{24F72E10-8456-4F3C-8C2E-B8DE92323504} = {5226F524-87E5-4516-9ACF-C5BA1447183A}
+		{35121CEC-DDB4-4531-9F46-EF2AECB7868A} = {5226F524-87E5-4516-9ACF-C5BA1447183A}
+		{06D9CD58-88C4-446C-AB08-49F6A96C2A3B} = {5226F524-87E5-4516-9ACF-C5BA1447183A}
+		{A210135D-A67B-4A45-8382-368A8865D5EB} = {5226F524-87E5-4516-9ACF-C5BA1447183A}
+		{8F47F31D-5021-4C10-9C6D-0F025EAE3661} = {8445D179-5B2A-406B-B286-78DE60E04DDE}
+		{17B21D70-E504-4976-8416-1FE6F7460411} = {8445D179-5B2A-406B-B286-78DE60E04DDE}
+		{6C89F275-D570-465C-AF03-8D7984BA7E36} = {00FC6B9C-AF8A-4972-AFB5-791D944AC0F7}
+		{BCB32DCF-E1BC-4061-ACF4-CE39CBD08E05} = {788AC7A3-7CAA-47CC-85F8-F2021A60D761}
+		{144D5821-5753-4983-B499-E674C2969203} = {788AC7A3-7CAA-47CC-85F8-F2021A60D761}
+		{969FD1F7-6B8E-4FEF-B2BD-63E7D8982962} = {788AC7A3-7CAA-47CC-85F8-F2021A60D761}
+		{D905502F-47D5-4A23-9960-7F90F9DF985B} = {788AC7A3-7CAA-47CC-85F8-F2021A60D761}
+		{BCEA1480-BB94-4FFD-A9D1-11B670982B80} = {788AC7A3-7CAA-47CC-85F8-F2021A60D761}
+		{1F672F9A-E0CB-4DA0-A18B-5C49BB99D2BC} = {92EE5537-7CEB-4684-A847-E81192A3E9CC}
+		{9F401E81-CE74-4C07-A911-5B90322AE859} = {92EE5537-7CEB-4684-A847-E81192A3E9CC}
+		{D4615D12-F7E1-4386-89A3-7F53C6A99638} = {92EE5537-7CEB-4684-A847-E81192A3E9CC}
+		{7223EFC7-4CAC-437B-8344-A5D7E8344AA0} = {92EE5537-7CEB-4684-A847-E81192A3E9CC}
+		{C9FE1F74-06FF-4471-9AA0-6E9E5A786506} = {92EE5537-7CEB-4684-A847-E81192A3E9CC}
+		{71D3FA88-2C33-4916-BE5B-2020B3F78325} = {D8D29E08-A870-4AB8-B49A-46643F4DC74E}
+		{326B5CED-963F-4527-870A-6B48517AF036} = {D8D29E08-A870-4AB8-B49A-46643F4DC74E}
+		{41E3A440-D6F2-427D-8DCA-659577A04884} = {D8D29E08-A870-4AB8-B49A-46643F4DC74E}
+		{EC5EB92E-74A5-4385-B8CE-961B56EFBDA4} = {D8D29E08-A870-4AB8-B49A-46643F4DC74E}
+		{F4048769-F5A2-4C1B-975F-B6559E1DC662} = {D8D29E08-A870-4AB8-B49A-46643F4DC74E}
+		{00910D7E-89B0-4C63-8A3D-CE700E7ECA37} = {209FFCB1-41FD-48B3-8E6B-8DDA3116751C}
+		{4D4052A1-013D-4876-A824-743FD1D5F947} = {209FFCB1-41FD-48B3-8E6B-8DDA3116751C}
+		{4A370366-0A76-48C6-8573-4032128DAD74} = {209FFCB1-41FD-48B3-8E6B-8DDA3116751C}
+		{05B04C95-6A02-4892-A28F-BDA154A06830} = {209FFCB1-41FD-48B3-8E6B-8DDA3116751C}
+		{616A2CF9-0ECB-4939-882A-0167407EB06B} = {2086A121-4A38-464A-A4F0-56ECBDB8AA02}
+		{67B2E5A1-509F-42D1-8DAE-1BD87D3053CD} = {2086A121-4A38-464A-A4F0-56ECBDB8AA02}
+		{3F814A82-7600-4FC4-B6D1-9C64CA406284} = {2086A121-4A38-464A-A4F0-56ECBDB8AA02}
+		{F0783A42-E8E6-4A32-9ABA-6E4F944317BF} = {2086A121-4A38-464A-A4F0-56ECBDB8AA02}
+		{8139AD15-A9F6-4DD2-9098-E0037EA545D0} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{74B70B01-97A3-4EC7-8441-E9FBBF702359} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{5BBC03B3-B35A-4C09-907A-9EC7D546F44B} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{8D48B6AC-2D24-42C0-9DCF-4A0C70308109} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{63BA74EA-C958-4FD6-A801-03FCD54AB6D0} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{FB67A08C-EF29-4FC5-BE43-677C236E73E2} = {24F72E10-8456-4F3C-8C2E-B8DE92323504}
+		{6956D5BC-2717-4A9E-8F2F-03A4A0982675} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{048E795A-B209-41AE-9029-6DE9FB492645} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{3AD74258-C5E1-4810-B760-71172E421D0D} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{07A82678-55A6-4C48-98C0-AB149265C3A4} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{B030BA84-9748-4ED9-8095-D50442FDDF65} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{21939CA5-63A2-4438-A53B-9DC13AB6070F} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{865A5080-0716-4180-9C71-54B0A681D39C} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{ADE23EF2-81FD-4DFD-B87C-DA38F864C405} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{39E6911E-A105-4B3C-90C1-118D82DBCAA8} = {35121CEC-DDB4-4531-9F46-EF2AECB7868A}
+		{7ABDF6EA-3D11-4DAB-BA48-29787A3E00D4} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{99E84538-C0D8-440D-A1EE-4C9CABE0600D} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{BC46A530-F92B-472D-8093-61F63C7B0D4E} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{8C0D811F-FEE9-43BD-8592-9EB3545749E1} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{5A7B5345-BC6C-4E87-903A-5EF1CF8DFE3D} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{1B231985-ACBE-4F19-9FDB-208D63B3613E} = {06D9CD58-88C4-446C-AB08-49F6A96C2A3B}
+		{F7637ED6-474F-4A72-8C44-05224F9FC53B} = {A210135D-A67B-4A45-8382-368A8865D5EB}
+		{61627301-13C0-41E5-B311-2F15A2256C99} = {A210135D-A67B-4A45-8382-368A8865D5EB}
+		{016C5F6B-99E0-4882-8767-9C44FCF388DE} = {A210135D-A67B-4A45-8382-368A8865D5EB}
+		{F45AE833-9728-454C-A0D6-284002EAEE56} = {A210135D-A67B-4A45-8382-368A8865D5EB}
+		{21B9A2EC-4DD5-4861-8BA7-6D8B3659C77A} = {8F47F31D-5021-4C10-9C6D-0F025EAE3661}
+		{F7AF6213-7ED3-4BE6-80EB-A35E8DF4B92F} = {8F47F31D-5021-4C10-9C6D-0F025EAE3661}
+		{5995EA32-A771-4CFD-96D3-AE3791FE8026} = {8F47F31D-5021-4C10-9C6D-0F025EAE3661}
+		{DACEE9AB-99E6-4B33-BCD7-4B4826C8549B} = {17B21D70-E504-4976-8416-1FE6F7460411}
+		{0F37D6EC-6A53-4417-B04B-52E7AD40DE07} = {17B21D70-E504-4976-8416-1FE6F7460411}
+		{16472241-365F-49AF-A285-6DC2D243914E} = {6C89F275-D570-465C-AF03-8D7984BA7E36}
+		{89355A15-6303-47E0-9514-761EA6ECD1E2} = {6C89F275-D570-465C-AF03-8D7984BA7E36}
+		{C18FE637-640D-447E-A8C6-9736E92F72A7} = {6C89F275-D570-465C-AF03-8D7984BA7E36}
+		{C3FB8B44-09A8-4BBD-B3D5-EA2E95AB34B2} = {6C89F275-D570-465C-AF03-8D7984BA7E36}
+		{C945A4E0-97AA-4923-A446-825F255E31EF} = {BCB32DCF-E1BC-4061-ACF4-CE39CBD08E05}
+		{3EA6F840-7E75-4386-8579-B8A3184573B6} = {144D5821-5753-4983-B499-E674C2969203}
+		{27B2A7C4-38CE-4728-89CA-D1BB5D7B1178} = {969FD1F7-6B8E-4FEF-B2BD-63E7D8982962}
+		{4E54768E-41FF-4BAD-875F-12DAB8EDD5BF} = {1F672F9A-E0CB-4DA0-A18B-5C49BB99D2BC}
+		{E41D9A98-9DB6-4D3E-A0E3-34BD3A7DF528} = {9F401E81-CE74-4C07-A911-5B90322AE859}
+		{C90103CE-82FE-402D-8BFC-721D97205E1E} = {D4615D12-F7E1-4386-89A3-7F53C6A99638}
+		{C4F5A202-C443-4703-BA28-97DC7EFA6A41} = {7223EFC7-4CAC-437B-8344-A5D7E8344AA0}
+		{0C9E5BC8-09A0-4186-8518-AC2F82BECE93} = {C9FE1F74-06FF-4471-9AA0-6E9E5A786506}
+		{7C7EE089-0A16-46A4-AB0A-0F03C2497EAE} = {71D3FA88-2C33-4916-BE5B-2020B3F78325}
+		{A7BB06A1-5E46-43F8-9083-18E74D7720BD} = {326B5CED-963F-4527-870A-6B48517AF036}
+		{4C579EF2-B5D5-401E-844B-E3E7D901892C} = {41E3A440-D6F2-427D-8DCA-659577A04884}
+		{E0C14133-4D2F-4BDF-8D9A-C0E8A75AB20A} = {EC5EB92E-74A5-4385-B8CE-961B56EFBDA4}
+		{DA13F379-198E-4B6C-B9CC-2F37ED35B912} = {F4048769-F5A2-4C1B-975F-B6559E1DC662}
+		{CC9D5551-5A16-406A-98E6-D9540221A662} = {00910D7E-89B0-4C63-8A3D-CE700E7ECA37}
+		{CC663128-A9BF-4588-8D54-F38AC8CFAAEA} = {4D4052A1-013D-4876-A824-743FD1D5F947}
+		{886B30BB-C957-4335-9510-434A4F95D7AD} = {4A370366-0A76-48C6-8573-4032128DAD74}
+		{AF738143-C0E1-492C-AF10-DB03922FABFB} = {05B04C95-6A02-4892-A28F-BDA154A06830}
+		{7020BC09-06E7-4877-B34D-8B77E15A6ECC} = {616A2CF9-0ECB-4939-882A-0167407EB06B}
+		{7CE4FB24-164D-4C73-B184-7D82C3C2B335} = {67B2E5A1-509F-42D1-8DAE-1BD87D3053CD}
+		{7FF8F4DF-3687-471F-9BE9-ADCF8438F4D6} = {3F814A82-7600-4FC4-B6D1-9C64CA406284}
+		{A9477907-D8B7-4DF8-9EBD-89996FCC50AB} = {F0783A42-E8E6-4A32-9ABA-6E4F944317BF}
+		{4232B0AB-2B7E-4BED-A64D-FFF2F3DA28D1} = {8139AD15-A9F6-4DD2-9098-E0037EA545D0}
+		{15D00BD4-918C-47EB-A875-2DD335255175} = {74B70B01-97A3-4EC7-8441-E9FBBF702359}
+		{2C17578F-2EF6-4EDC-A9C3-FC0074DDF85B} = {5BBC03B3-B35A-4C09-907A-9EC7D546F44B}
+		{512EFE0B-1F27-43D3-8BDA-28CEE641DD64} = {8D48B6AC-2D24-42C0-9DCF-4A0C70308109}
+		{D14C586B-8D10-42E5-91CE-4EF1A8EB322A} = {63BA74EA-C958-4FD6-A801-03FCD54AB6D0}
+		{351EA860-CE72-4AF8-BC3C-9552ADD91227} = {FB67A08C-EF29-4FC5-BE43-677C236E73E2}
+		{C4D9AA0E-AD98-463D-A7D9-85BC5939B9B1} = {6956D5BC-2717-4A9E-8F2F-03A4A0982675}
+		{46260265-ABA2-4A48-9D17-6425A6FBA9E1} = {048E795A-B209-41AE-9029-6DE9FB492645}
+		{C2DA7291-E7A6-4F5C-A4FA-E16DE2E1E0EF} = {3AD74258-C5E1-4810-B760-71172E421D0D}
+		{90EF534F-8D5B-40B9-AD83-D3D52C539EC4} = {07A82678-55A6-4C48-98C0-AB149265C3A4}
+		{33B477A3-A331-4563-B932-59B441F42CAB} = {B030BA84-9748-4ED9-8095-D50442FDDF65}
+		{629B669F-DA5E-4718-9925-305B7F86BEF1} = {21939CA5-63A2-4438-A53B-9DC13AB6070F}
+		{C6535B5A-3705-4B8F-BFE2-9D19380CDC22} = {865A5080-0716-4180-9C71-54B0A681D39C}
+		{879A97B1-4D05-4FF0-949F-F5786338156A} = {ADE23EF2-81FD-4DFD-B87C-DA38F864C405}
+		{5D42F288-DE01-44F7-AE39-C6A8FC28ECB8} = {39E6911E-A105-4B3C-90C1-118D82DBCAA8}
+		{153985DD-3FF1-46C5-B8C2-5662D19DC22C} = {7ABDF6EA-3D11-4DAB-BA48-29787A3E00D4}
+		{DA61C482-4854-4DDD-A7A6-D40C8B52A4D1} = {99E84538-C0D8-440D-A1EE-4C9CABE0600D}
+		{71B5A207-E1A6-442D-86B2-5EF5BBE41C8A} = {BC46A530-F92B-472D-8093-61F63C7B0D4E}
+		{6F04E1BD-7506-4905-8FBF-38207F010024} = {8C0D811F-FEE9-43BD-8592-9EB3545749E1}
+		{BFB4358E-47E3-4B59-8F02-9EC183663C80} = {5A7B5345-BC6C-4E87-903A-5EF1CF8DFE3D}
+		{8A3FC116-8332-4AD0-8AEB-DF9A5897EB93} = {1B231985-ACBE-4F19-9FDB-208D63B3613E}
+		{B1762191-5F39-4F0A-9341-73E9C9DE5F8C} = {F7637ED6-474F-4A72-8C44-05224F9FC53B}
+		{957A1F63-D58E-478F-9DA3-C7274A1EB391} = {61627301-13C0-41E5-B311-2F15A2256C99}
+		{89319E44-9CB9-41BE-AC27-AF6DE924F085} = {016C5F6B-99E0-4882-8767-9C44FCF388DE}
+		{E4444711-1482-4E52-9159-A17FD7707896} = {F45AE833-9728-454C-A0D6-284002EAEE56}
+		{D158CB9B-6E6C-4DBB-8CBD-8D64CC59E9D1} = {21B9A2EC-4DD5-4861-8BA7-6D8B3659C77A}
+		{6603AD2F-8660-4B9C-B56C-5519E372848B} = {F7AF6213-7ED3-4BE6-80EB-A35E8DF4B92F}
+		{869EBE3A-F78D-494E-8563-EE1703BE87FD} = {5995EA32-A771-4CFD-96D3-AE3791FE8026}
+		{E876B7C9-9FDD-4B10-A953-6EAB3444E86C} = {DACEE9AB-99E6-4B33-BCD7-4B4826C8549B}
+		{83658121-43F8-4B96-A159-2A6790B5D877} = {0F37D6EC-6A53-4417-B04B-52E7AD40DE07}
+		{6782FA18-80C2-4376-98A0-D6E1EE0B4032} = {D905502F-47D5-4A23-9960-7F90F9DF985B}
+		{E2177A14-2B06-407A-985A-C0CCAA7C1CAC} = {BCEA1480-BB94-4FFD-A9D1-11B670982B80}
+	EndGlobalSection
+EndGlobal
